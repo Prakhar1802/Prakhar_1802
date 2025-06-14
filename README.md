@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Tripathi</h1>
-<h3 align="center">Python Developer | Analyst at Oracle | AI & Automation Enthusiast</h3>
+<h3 align="center">Python Programmer | Analyst at Oracle | AI & Automation Enthusiast</h3>
 
 ---
 
@@ -51,15 +51,6 @@ Interactive Power BI dashboard analyzing SBI stock trends, volumes, and financia
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakhar1802&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakhar1802&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📚 Currently Learning
 
 - Natural Language Processing (NLP)
@@ -75,5 +66,5 @@ Interactive Power BI dashboard analyzing SBI stock trends, volumes, and financia
 
 ---
 
-_Thanks for visiting! Let’s build something amazing together 🚀_
+_Thanks for visiting! Load some code in life 🚀_
 
