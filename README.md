@@ -61,7 +61,7 @@ Interactive Power BI dashboard analyzing SBI stock trends, volumes, and financia
 ---
 
 ### 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/prakhartripathi1802/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prakhar-tripathi-/)
 - 📫 prakhartripathi1802@gmail.com
 
 ---
