@@ -4,18 +4,17 @@
 ---
 
 - 🔭 I’m currently working as an **Analyst at Oracle**
-- 👨‍💻 Passionate about building intelligent voice assistants and automation tools
-- 🌱 Currently learning **NLP**, **GitHub Actions**, and **full-stack app deployment**
-- 💬 Ask me about **Python, automation, data analysis, and voice AI projects**
+- 👨‍💻 Passionate about exploring
+- 🌱 Currently learning **NLP**, **GitHub Actions**, and **Machine Learning**
+- 💬 Ask me about **Python, automation, and data analysis**
 - 📫 Reach me at **prakhartripathi1802@gmail.com**
-- 📄 [View My Resume](#) <!-- Replace with actual link -->
 
 ---
 
 ### 💼 Work Experience
 
 **🔹 Analyst @ Oracle**  
-*June 2025 – Present*  
+*May 2025 – Present*  
 - Analyzing and improving business processes through automation  
 - Working on reporting, data visualization, and process streamlining  
 - Collaborating with global teams to deliver data-driven solutions  
@@ -34,7 +33,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
 
 ---
 
